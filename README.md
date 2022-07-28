@@ -1,4 +1,5 @@
 # Blockchain-from-basics-to-Advance
+![iStock-1131340856-scaled-e1631638302998](https://user-images.githubusercontent.com/87219816/181580680-0df634d0-6177-433b-82b3-922d0181da01.jpg)
 
 ## Background
 
@@ -38,13 +39,13 @@ contract HelloWorld {
 
 The Solidity documentation is hosted at [Read the docs](https://docs.soliditylang.org).
 
-## Development
+## References
+<ul>
+    <li> <a href = "https://soliditylang.org/"> Solidity </li>
+    <li> <a href = "https://www.investopedia.com/terms/b/blockchain.asp"> Innvestopedia </li>
+    <li> <a href = "https://www.ibm.com/topics/what-is-blockchain"> Blockchain </li>
+</ul>
 
-Solidity is still under development. Contributions are always welcome!
-Please follow the
-[Developers Guide](https://docs.soliditylang.org/en/latest/contributing.html)
-if you want to help.
+## Author
 
-You can find our current feature and bug priorities for forthcoming
-releases in the [projects section](https://github.com/ethereum/solidity/projects).
-
+[Daoud Hussain](http://daoud-hussain.com/)
